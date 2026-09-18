@@ -8,7 +8,9 @@ from typing import Optional, Dict, Any, List
 
 from fastapi import FastAPI, HTTPException, UploadFile, File, Request, Response, Cookie
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import PlainTextResponse
+from fastapi.responses import PlainTextResponse, FileResponse
+from fastapi.staticfiles import StaticFiles
+from pathlib import Path
 
 from models import (
     ManualSimulationRequest,
