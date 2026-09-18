@@ -1,0 +1,37 @@
+{
+  "unit": "m3",
+  "year": 2024,
+  "note": "Synthetic campus data – prototype only",
+  "buildings": [
+    {
+      "id": "admin_block",
+      "name": "Admin Block",
+      "monthly": [420, 390, 380, 360, 410, 450, 480, 470, 440, 420, 390, 400]
+    },
+    {
+      "id": "science_block",
+      "name": "Science Block",
+      "monthly": [680, 640, 610, 590, 650, 710, 760, 745, 700, 670, 630, 650]
+    },
+    {
+      "id": "library",
+      "name": "Central Library",
+      "monthly": [210, 195, 188, 182, 205, 225, 240, 235, 218, 210, 196, 202]
+    },
+    {
+      "id": "hostel_a",
+      "name": "Hostel A",
+      "monthly": [850, 800, 770, 745, 820, 900, 960, 940, 880, 850, 795, 820]
+    },
+    {
+      "id": "hostel_b",
+      "name": "Hostel B",
+      "monthly": [880, 830, 800, 775, 850, 930, 990, 970, 910, 880, 825, 850]
+    },
+    {
+      "id": "cafeteria",
+      "name": "Cafeteria",
+      "monthly": [520, 490, 475, 460, 505, 555, 590, 580, 545, 520, 488, 502]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "unit": "kg",
+  "year": 2024,
+  "note": "Synthetic campus data – prototype only",
+  "monthly": [
+    {"month": "Jan", "total": 8200, "recycled": 2100, "compost": 1800, "landfill": 4300},
+    {"month": "Feb", "total": 7800, "recycled": 2050, "compost": 1700, "landfill": 4050},
+    {"month": "Mar", "total": 7600, "recycled": 2000, "compost": 1650, "landfill": 3950},
+    {"month": "Apr", "total": 7400, "recycled": 1950, "compost": 1600, "landfill": 3850},
+    {"month": "May", "total": 8600, "recycled": 2200, "compost": 1900, "landfill": 4500},
+    {"month": "Jun", "total": 9200, "recycled": 2350, "compost": 2050, "landfill": 4800},
+    {"month": "Jul", "total": 9800, "recycled": 2500, "compost": 2200, "landfill": 5100},
+    {"month": "Aug", "total": 9600, "recycled": 2450, "compost": 2150, "landfill": 5000},
+    {"month": "Sep", "total": 8800, "recycled": 2250, "compost": 1950, "landfill": 4600},
+    {"month": "Oct", "total": 8300, "recycled": 2120, "compost": 1820, "landfill": 4360},
+    {"month": "Nov", "total": 7900, "recycled": 2020, "compost": 1720, "landfill": 4160},
+    {"month": "Dec", "total": 8000, "recycled": 2050, "compost": 1750, "landfill": 4200}
+  ]
+}
